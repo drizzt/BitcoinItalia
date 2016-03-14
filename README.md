@@ -1,7 +1,7 @@
 ### Gruppo Telegram “Bitcoin Italia” 
 #### Per entrare nel gruppo
 https://telegram.me/bitcoinita
-#### Amministrator del gruppo
+#### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico)
   * Andrea Benetton @Andbene72
   * Giacomo Zucco @giacomozucco
@@ -34,6 +34,8 @@ Ci sono molti alti gruppi Telegram e Facebook  oltre a questo, sui temi più dis
 Questo non è un gruppo di discussione di questioni varie eventuali. Con questo non si sminuisce l’importanza di altri temi (come possono essere il calcio, l’amore, la religione, la politica estera, la bioetica, il terrorismo, l’effetto serra, i problemi della giustizia e dell’immigrazione, la sessualità, l’estinzione dei panda,il cinema, la musica, la moralità, il senso della vita)... semplicemente si dichiara che lo *scopo* di questo gruppo è trattare **solo** quelli sopra esplicitati, e non tutti. E’ una cosa buona che tu non parli solo di Bitcoin nella tua vita (sarebbe inquietante)...passa da queste parti solo quando vuoi parlare di quello, per piacere. 
 
 Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utente cerca di non abusarne.
+
+La moderazione del gruppo non è topic della stesso. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 #### 2- Sii civile e sereno.
 Non è un luogo per sfogare le tue frustrazioni o lo stress accumulato nella giornata, né per dare sfoggio delle tue abilità coprolalistiche, né per intraprendere qualche rissa infantile o qualche crociata personale, né per porre ultimatum o emettere scomuniche. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.** 
