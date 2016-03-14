@@ -1,6 +1,6 @@
 ### Gruppo Telegram “Bitcoin Italia” 
 #### Per entrare nel gruppo
-https://telegram.me/joinchat/CLWSTz4_Jj1ahfCSAhf71Q
+https://telegram.me/bitcoinita
 #### Amministrator del gruppo
 (in ordine strettamente alfabetico)
   * Andrea Benetton @Andbene72
