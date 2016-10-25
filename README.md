@@ -25,6 +25,7 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
 
 ** Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi: **
+
 * No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
 * No Propaganda : lo scopo di questo gruppo non è cercare di convincersi reciprocamente o il fare proselitismo. Assumete che le controparti abbiano una risorsa tempo limitata e rispettate questo vincolo. 
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
