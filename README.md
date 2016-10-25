@@ -20,11 +20,11 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * [Bitcoin, politica e economia](https://telegram.me/Bitcoin_e_politica) (si prega di tenere una certa serietà in questa chat)
 * [Bitcoin&Law](https://telegram.me/bitcoinelegge)
 * [Non solo mining](https://telegram.me/bitcoinminingitalia) (dedicata al mining)
-* [CPUcoin](https://telegram.me/CPUcoin) - Chat dedicata alle coin con CPU mining.
+* [CPUcoin](https://telegram.me/CPUcoin) - Chat dedicata alle coin con CPU mining
 * [Bitcoin & Hardware](https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
 * [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
 
-** Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi: **
+**Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
 * No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
 * No Propaganda : lo scopo di questo gruppo non è cercare di convincersi reciprocamente o il fare proselitismo. Assumete che le controparti abbiano una risorsa tempo limitata e rispettate questo vincolo. 
