@@ -30,6 +30,7 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * No Propaganda : lo scopo di questo gruppo non è cercare di convincersi reciprocamente o il fare proselitismo. Assumete che le controparti abbiano una risorsa tempo limitata e rispettate questo vincolo. 
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * No Against: questa chat non nasce in contrapposizione ad altre o in polemica verso i di quelle moderatori. 
+* No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi.
 
 #### 1- Rimani sul topic. 
 
