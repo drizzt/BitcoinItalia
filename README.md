@@ -13,16 +13,16 @@ Il gruppo è stato creato per:
   2. Condividere le informazioni in merito
   3. Dare risposte e, nel limite del possibile, supporto ai neofiti che si avvicinano a questa tecnologia.
 
-Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. Esistono chat per argomenti specifici nelle quali vi chiediamo di spostarvi nel caso una discussione sugli stessi vada oltre uno scambio di post:
-* Bitcoin e sicurezza informatica (https://telegram.me/joinchat/AAR0rz1wnPn9aCXSZfaAqg) - Dedicata alla sicurezza dei wallet, come proteggersi da virus ecc ...
-* Bitcoin & Alt Trading & Trollbox (https://telegram.me/joinchat/AAR0rz3EljT44mBq8uJTxw) (trading)
-* Bitcoin e gambling (Poker / scommesse) (https://telegram.me/joinchat/AAR0rz3LDH4tIKNJ52ubjg) (chat dedicata ai giochi che supportano Bitcoin, e in generale al gambling)
-* Bitcoin, politica e economia (https://telegram.me/Bitcoin_e_politica) (si prega di tenere una certa serietà in questa chat)
-* Bitcoin&Law (https://telegram.me/bitcoinelegge)
-* Non solo mining (https://telegram.me/bitcoinminingitalia) (dedicata al mining)
-* CPUcoin (https://telegram.me/CPUcoin) - Chat dedicata alle coin con CPU mining.
-* Bitcoin & Hardware (https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
-* Scrivere sulla Blockchain (https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
+Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. Esistono chat per argomenti specifici nelle quali vi chiediamo di spostarvi nel caso una discussione sugli stessi si protragga e monopolizzi la chat:
+* [Bitcoin e sicurezza informatica](https://telegram.me/joinchat/AAR0rz1wnPn9aCXSZfaAqg) - Dedicata alla sicurezza dei wallet, come proteggersi da virus ecc ...
+* [Bitcoin & Alt Trading & Trollbox](https://telegram.me/joinchat/AAR0rz3EljT44mBq8uJTxw) (trading)
+* [Bitcoin e gambling (Poker / scommesse)](https://telegram.me/joinchat/AAR0rz3LDH4tIKNJ52ubjg) (chat dedicata ai giochi che supportano Bitcoin, e in generale al gambling)
+* [Bitcoin, politica e economia](https://telegram.me/Bitcoin_e_politica) (si prega di tenere una certa serietà in questa chat)
+* [Bitcoin&Law](https://telegram.me/bitcoinelegge)
+* [Non solo mining](https://telegram.me/bitcoinminingitalia) (dedicata al mining)
+* [CPUcoin](https://telegram.me/CPUcoin) - Chat dedicata alle coin con CPU mining.
+* [Bitcoin & Hardware](https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
+* [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
 
 ** Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi: **
 * No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
