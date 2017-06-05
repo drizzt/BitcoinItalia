@@ -2,9 +2,10 @@
 ## Per entrare nel gruppo
 https://t.me/bitcoinita
 ### Amministratori/moderatori del gruppo
-(in ordine strettamente alfabetico)
+(in ordine strettamente alfabetico di nome)
   * Andrea Benetton [@Andbene72](https://t.me/Andbene72)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
+  * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
   * Timothy Redaelli [@tredaelli](https://t.me/tredaelli)
 
 ### Regole del gruppo
@@ -24,6 +25,10 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * [Bitcoin & Hardware](https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
 * [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
 
+Chat specifiche per sub argomento:
+* [Bitcoin Lightning network IT](https://telegram.me/joinchat/A4TclT5zDFZQv5xxuCoCkw) 
+* Bitcoin Segregated Witness IT
+
 **Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
 * No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
@@ -31,6 +36,7 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * No Against: questa chat non nasce in contrapposizione ad altre o in polemica verso i moderatori di quelle chat.
 * No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi.
+* No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se rietenete che qualcuno abbia davvero violato la legge intrapprendete se lo rietenete le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 
 #### 1- Rimani sul topic.
 
