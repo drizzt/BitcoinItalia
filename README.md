@@ -36,7 +36,7 @@ Chat specifiche per sub argomento:
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * No Against: questa chat non nasce in contrapposizione ad altre o in polemica verso i moderatori di quelle chat.
 * No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi.
-* No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se rietenete che qualcuno abbia davvero violato la legge intraprendete se lo ritenete le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
+* No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 
 #### 1- Rimani sul topic.
 
