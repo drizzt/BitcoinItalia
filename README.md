@@ -5,6 +5,8 @@ https://t.me/bitcoinita
 (in ordine strettamente alfabetico di nome)
   * Andrea Benetton [@Andbene72](https://t.me/Andbene72)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
+  * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
+  * Luca Venturini 
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
   * Timothy Redaelli [@tredaelli](https://t.me/tredaelli)
 
