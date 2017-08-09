@@ -88,18 +88,21 @@ Di seguito si esemplificano alcune categorie di nomi non consentiti (l'elenco no
 * Nomi scatologici, pornografici, volgari o altrimenti offensivi
 * Nomi legati ad atti violenti o illegali o che incitano a compierli
 * Variazioni creative per aggirare le limitazioni precedenti, basate su variazioni ortografiche o sostituzioni di lettere e numeri
+
 Tali nomi utente possono essere percepiti come offensivi o provocatori, divenire oggetto di abuso, risultare sgradevoli nei confronti degli altri utenti. In ogni caso essi distraggono dal dibattito di merito su Bitcoin.
 
 ##### Nomi utente promozionali
 * Nomi che riproducono o reclamizzano un'impresa, un marchio o un prodotto commerciale
 * Nomi di aziende, organizzazioni, società, associazioni, siti web, soprattutto se registrati allo scopo di inserire informazioni relative alle proprie attività.
 * Nomi che alludano al ruolo di portavoce ufficiali di una persona, un'impresa, un ente o un'organizzazione.
+
 Vietare questo genere di nomi è prima di tutto a tutela dell'impresa: dato che non abbiamo modo di confermare l'identità dei propri utenti, non si può garantire che un marchio venga usato solo dai legittimi proprietari. Il nome utente in ogni caso deve riferirsi ad una singola persona, non ad un gruppo o azienda. 
 
 ##### Nomi utente diffamatori o abusivi
 * Nomi che insultano, deridono o diffamano altri utenti, persone anche non operanti nel gruppo, gruppi di persone o, imprese.
 * Nomi che divulgano informazioni personali altrui.
 * Nomi che corrispondono, contengono o richiamano codici fiscali, numeri telefonici, indirizzi fisici o di posta elettronica, siti web propri o altrui.
+
 Molestie e diffamazione, anche quando non costituiscano reato, sono comportamenti inappropriati: il nome utente non è un mezzo per attaccare altri utenti o anche solo sottolineare il disaccordo con loro.
 
 ##### Nomi utente che generano confusione
