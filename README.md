@@ -113,9 +113,13 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 3. In caso di violazioni **gravissime** e/o ripetute in modo **incontrollabile** (ad esempio: minacce di morte, spam spudorato, spam incontrollato per problemi tecnici, attacco in massa di troll sul gruppo, ecc.), gli amministratori si riservano di bannare dal gruppo l’autore, fino ad un eventuale chiarimento con quest’ultimo e ad un’eventuale ri-accettazione.
 
 #### Gestione dei nomi utente inappropriati
+
 **Segnalazione**
+
 Per segnalare ad un utente che il suo nome utente pare essere inappropriato, contattare i moderatori del gruppo segnalando una motivazione riguardante il caso specifico.
+
 **Gestione**
+
 Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, il moderatore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
 
