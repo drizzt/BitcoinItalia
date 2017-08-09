@@ -65,6 +65,8 @@ Messaggi che incitano all'uso della violenza o all'odio razziale, etnico, nazion
 Mentre è consentito discutere qualsiasi idea politica o religiosa all'interno di un ragionamento attinenti al Bitcoin, non sono ammesse invece ingiurie alle credenze altrui. Analogamente non è ammessa propaganda politica o di fedi religiose o contro le stesse. 
 Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atmosfera favorevole al confronto.
 
+Non è ammesso chiedere denaro agli altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, quindi non si può postare un IBAN o un indirizzo Bitcoin, fatte salve grandi campagne che possono interessare molti. 
+
 Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
 #### 3- Scrivi in modo leggibile.
