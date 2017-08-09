@@ -112,6 +112,13 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 2. In caso di violazioni **palesi** e/o **ripetute** delle regolette di cui sopra, che mettano a repentaglio il funzionamento del gruppo, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) si riservano di cancellare direttamente i commenti notificandolo all’autore.
 3. In caso di violazioni **gravissime** e/o ripetute in modo **incontrollabile** (ad esempio: minacce di morte, spam spudorato, spam incontrollato per problemi tecnici, attacco in massa di troll sul gruppo, ecc.), gli amministratori si riservano di bannare dal gruppo l’autore, fino ad un eventuale chiarimento con quest’ultimo e ad un’eventuale ri-accettazione.
 
+#### Gestione dei nomi utente inappropriati
+**Segnalazione**
+Per segnalare ad un utente che il suo nome utente pare essere inappropriato, contattare i moderatori del gruppo segnalando una motivazione riguardante il caso specifico.
+**Gestione**
+Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, il moderatore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
+L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
+
 ### UNA (DOVEROSA) APPENDICE FILOSOFICA:
 **Queste regole non hanno NULLA a che fare con la "censura" o con la "libertà d’espressione".**
 Si tratta semplicemente dell’esposizione franca e sistematica degli *scopi* per cui questo gruppo è stato creato, dei *metodi* che i creatori/promotori di questo gruppo hanno proposto di seguire, delle modalità con cui gli amministratori difenderanno e garantiranno i suddetti scopi e metodi. Questo spazio virtuale non è "res nullius" e non è nemmeno un qualche strano tipo di “proprietà collettiva”: è invece uno spazio **privato**, del quale ogni diritto appartiene in senso ultimo a Telegram Messenger LLP e in senso immediato a coloro che lo gestiscono secondo le regole previste da Telegram Messenger LLP. (gli *amministratori* del gruppo).
