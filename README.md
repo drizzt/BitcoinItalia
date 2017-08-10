@@ -115,10 +115,13 @@ Molestie e diffamazione, anche quando non costituiscano reato, sono comportament
 * Nomi che richiamano le funzioni di sistema o contengono termini usati comunemente (ad esempio "bot", etc.) o che possono dare in qualche modo l'impressione di un ruolo ufficiale all'interno della comunità degli utenti (ad esempio contenenti "amministratore", "moderatore", "sysop", etc.).
 * Nomi eccessivamente lunghi o articolati, difficili da riportare e ricordare, ad esempio lunghe sequenze casuali o apparentemente casuali di numeri o lettere ("ZJUn5XDLfqSve6yO", "asdfjjjjjjjk", "32104157238") inclusi i numeri di telefono o sequenze che assomiglino a indirizzi IPv4 e IPv6.
 
-### TRE TIPOLOGIE DI PROVVEDIMENTO:
-1. In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo si riservano il diritto di chiedervi gentilmente, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
-2. In caso di violazioni **palesi** e/o **ripetute** delle regolette di cui sopra, che mettano a repentaglio il funzionamento del gruppo, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) si riservano di cancellare direttamente i commenti notificandolo all’autore.
-3. In caso di violazioni **gravissime** e/o ripetute in modo **incontrollabile** (ad esempio: minacce di morte, spam spudorato, spam incontrollato per problemi tecnici, attacco in massa di troll sul gruppo, ecc.), gli amministratori si riservano di bannare dal gruppo l’autore, fino ad un eventuale chiarimento con quest’ultimo e ad un’eventuale ri-accettazione.
+### PROVVEDIMENTI IN CASO DI VIOLAZIONE DELLE POLICY:
+In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e vi chiederanno, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
+
+In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+
+**'Three strikes and you're out'**
+Alla terza violazione delle policy della lista, gli amministratori del gruppo banneranno definitivamente il responsabile delle violazioni.
 
 #### Gestione dei nomi utente inappropriati
 
