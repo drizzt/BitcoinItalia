@@ -121,6 +121,7 @@ In caso di commenti che non rispettino le semplici regole di cui sopra, gli ammi
 In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
 
 **'Three strikes and you're out'**
+
 Alla terza violazione delle policy della lista, gli amministratori del gruppo banneranno definitivamente il responsabile delle violazioni.
 
 #### Gestione dei nomi utente inappropriati
