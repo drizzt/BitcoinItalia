@@ -32,6 +32,9 @@ Chat specifiche per sub argomento:
 * [Bitcoin Lightning network IT](https://telegram.me/joinchat/A4TclT5zDFZQv5xxuCoCkw) 
 * Bitcoin Segregated Witness IT
 
+Bitcoin Italia su altri social media:
+* [Bitcoin Italia su VKontakte](https://vk.com/bitcoinita)
+
 **Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
 * No Troll: non è ammesso trolling, teorie del complotto, attacchi ad hominem, paranoie, spam, disinformazione, "[montagne di merda](https://nientestronzate.wordpress.com/2014/11/01/la-teoria-della-montagna-di-merda-2/)".
