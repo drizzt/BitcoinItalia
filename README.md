@@ -3,7 +3,6 @@
 https://t.me/bitcoinita
 ### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico di nome)
-  * Andrea Benetton [@Andbene72](https://t.me/Andbene72)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
   * Luca Venturini 
