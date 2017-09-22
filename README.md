@@ -7,7 +7,7 @@ https://t.me/bitcoinita
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
   * Luca Venturini 
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
-  * Timothy Redaelli [@tredaelli](https://t.me/tredaelli)
+  * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 
 ### Regole del gruppo
 Il gruppo è stato creato per:
@@ -40,7 +40,7 @@ Bitcoin Italia su altri social media:
 * No Propaganda : lo scopo di questo gruppo non è cercare di convincersi reciprocamente o il fare proselitismo. Assumete che le controparti abbiano una risorsa tempo limitata e rispettate questo vincolo. 
 * No Bot: non sono ammessi bot nel gruppo salvo eventuali che gli amministratori potrebbero ritenere necessari a loro discrezione.
 * No Against: questa chat non nasce in contrapposizione ad altre o in polemica verso i moderatori di quelle chat.
-* No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi.
+* No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi (anche cripto valute).
 * No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 
 #### 1- Rimani sul topic.
