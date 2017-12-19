@@ -5,7 +5,7 @@ https://t.me/bitcoinita
 (in ordine strettamente alfabetico di nome)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
-  * Luca Venturini 
+  * Luca Venturini [@lucayepa](https://t.me/lucayepa)
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
 
