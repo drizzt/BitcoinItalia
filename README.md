@@ -30,6 +30,7 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 Chat specifiche per sub argomento:
 * [Bitcoin Lightning network IT](https://telegram.me/joinchat/A4TclT5zDFZQv5xxuCoCkw) 
 * Bitcoin Segregated Witness IT
+* [Liquid Italia (Bitcoin sidechain)](https://t.me/liquid_ita)
 
 Bitcoin Italia su altri social media:
 * [Bitcoin Italia su VKontakte](https://vk.com/bitcoinita)
