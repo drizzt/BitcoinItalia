@@ -16,17 +16,14 @@ Il gruppo è stato creato per:
   3. Dare risposte e, nel limite del possibile, supporto ai neofiti che si avvicinano a questa tecnologia.
 
 Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. Esistono chat per argomenti specifici nelle quali vi chiediamo di spostarvi nel caso una discussione sugli stessi si protragga e monopolizzi la chat:
-* [Bitcoin e sicurezza informatica](https://telegram.me/joinchat/AAR0rz1wnPn9aCXSZfaAqg) - Dedicata alla sicurezza dei wallet, come proteggersi da virus ecc ...
-* [Bitcoin & Alt Trading & Trollbox](https://telegram.me/joinchat/AAR0rz3EljT44mBq8uJTxw) (trading)
+* [Bitcoin - Fiat & Alt Trading](https://t.me/cryptotradingitalia) (trading)
 * [Bitcoin e gambling (Poker / scommesse)](https://telegram.me/joinchat/AAR0rz3LDH4tIKNJ52ubjg) (chat dedicata ai giochi che supportano Bitcoin, e in generale al gambling)
-* [Bitcoin, politica e economia](https://telegram.me/Bitcoin_e_politica) (si prega di tenere una certa serietà in questa chat)
-* [Bitcoin&Law](https://telegram.me/bitcoinelegge) - spazio dedicato a riflessioni giuridiche ed economiche del mondo btc
-* [Non solo mining](https://telegram.me/bitcoinminingitalia) (dedicata al mining)
-* [CPUcoin](https://telegram.me/CPUcoin) - Chat dedicata alle coin con CPU mining
-* [Bitcoin & Hardware](https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
-* [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
-* [Arbitrage & Cryptoexchange](http://t.me/ArbitrageCryptoExchangeITA)
+* [Bitcoin: IQ, Tech, Econ & Politics](https://t.me/Bitcoin_e_politica) (Discussioni di tecnologia, economia, politica.
+Immagine profilo obbligatoria.)
+* [Hardware & Software (no mining)](https://t.me/ItalyBitcoinHWandSW) (NON dedicata al mining)
+* [BW Arbitrage & Cryptoexchange](http://t.me/ArbitrageCryptoExchangeITA)
 * [Bitcoin Gateways](https://t.me/bitcoinIta_Gateways) Gruppo italiano per discutere dei gateways tra Bitcoin ed altre valute
+* [Bitcoin Dev Italia](https://t.me/bitcoindevitalia) Chat sviluppatori
 
 Chat specifiche per sub argomento:
 * [Bitcoin Lightning network IT](https://t.me/joinchat/A4TclT5zDFZpnGUTHFHnpg) 
