@@ -26,13 +26,10 @@ Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teoric
 * [Bitcoin & Hardware](https://telegram.me/joinchat/02ca7ef201a991d7a4dfba55f651e871) (NON dedicata al mining)
 * [Scrivere sulla Blockchain](https://telegram.me/joinchat/AAR0rz8GqSU9pVLJAtKTRg) - Notarizzazione e altro
 * [Arbitrage & Cryptoexchange](http://t.me/ArbitrageCryptoExchangeITA)
+* [Bitcoin Gateways](https://t.me/bitcoinIta_Gateways) Gruppo italiano per discutere dei gateways tra Bitcoin ed altre valute
 
 Chat specifiche per sub argomento:
-* [Bitcoin Lightning network IT](https://telegram.me/joinchat/A4TclT5zDFZQv5xxuCoCkw) 
-* Bitcoin Segregated Witness IT
-
-Bitcoin Italia su altri social media:
-* [Bitcoin Italia su VKontakte](https://vk.com/bitcoinita)
+* [Bitcoin Lightning network IT](https://t.me/joinchat/A4TclT5zDFZpnGUTHFHnpg) 
 
 **Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
