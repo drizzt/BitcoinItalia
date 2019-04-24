@@ -23,6 +23,7 @@ Immagine profilo obbligatoria.)
 * [Hardware & Software (no mining)](https://t.me/ItalyBitcoinHWandSW) (NON dedicata al mining)
 * [BW Arbitrage & Cryptoexchange](http://t.me/ArbitrageCryptoExchangeITA)
 * [Bitcoin Gateways](https://t.me/bitcoinIta_Gateways) Gruppo italiano per discutere dei gateways tra Bitcoin ed altre valute
+* [Bitcoin e Servizi di Pagamento (carte & conti)](https://t.me/Bitcoineservizidipagamento)
 * [Bitcoin Dev Italia](https://t.me/bitcoindevitalia) Chat sviluppatori
 
 Chat specifiche per sub argomento:
