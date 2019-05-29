@@ -133,6 +133,9 @@ Per segnalare ad un utente che il suo nome utente pare essere inappropriato, con
 Qualora la segnalazione venga ritenuta congruente con le limitazioni ai nomi utente previste da questa policy del gruppo, il moderatore provvederà ad inviare una richiesta di cambiamento all'utente con il nickname problematico, richiedendo la modifica, sospendendo nel frattempo la sua possibilità di postare nel gruppo.
 L'utente dovrà provvedere entro 1 giorno a modificare il nickname, passato il quale l'utente verrà definitivamente rimosso dal gruppo, al quale potrà riaccedere con un nickname in linea con questa policy.
 
+#### Responsabilità
+Gli amministratori del gruppo non visualizzano l'anteprima di nuovi post; non si assumono alcuna responsabilità per i contenuti pubblicati dalla community. Sono volontari che moderano il gruppo su base best effort e non danno alcun garanzia legale riguardo  un livello di servizio, soprattutto riguardo alla rimozione di materiale non conforme.
+
 ### UNA (DOVEROSA) APPENDICE FILOSOFICA:
 **Queste regole non hanno NULLA a che fare con la "censura" o con la "libertà d’espressione".**
 Si tratta semplicemente dell’esposizione franca e sistematica degli *scopi* per cui questo gruppo è stato creato, dei *metodi* che i creatori/promotori di questo gruppo hanno proposto di seguire, delle modalità con cui gli amministratori difenderanno e garantiranno i suddetti scopi e metodi. Questo spazio virtuale non è "res nullius" e non è nemmeno un qualche strano tipo di “proprietà collettiva”: è invece uno spazio **privato**, del quale ogni diritto appartiene in senso ultimo a Telegram Messenger LLP e in senso immediato a coloro che lo gestiscono secondo le regole previste da Telegram Messenger LLP. (gli *amministratori* del gruppo).
