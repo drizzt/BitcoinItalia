@@ -64,17 +64,18 @@ Chiediamo a tutti di collaborare in questo senso nel mantenere nel gruppo un'atm
 
 Non è ammesso chiedere denaro agli altri membri del gruppo in alcuna forma sia esso fiat o cryptocurrency, quindi non si può postare un IBAN o un indirizzo Bitcoin, fatte salve grandi campagne che possono interessare molti. 
 
-Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro. Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
+Considera che tante persone vedranno i tuoi commenti, magari anche il tuo prossimo datore di lavoro.
 
 #### 3- Scrivi in modo leggibile.
-Tieni conto che è un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile.
-
-**Non intasare la chat con messaggi in rapida successione.**
+Tieni conto che sei in un gruppo di centinaia di persone (molte delle quali ricevono notifica di ogni nuovo post): cerca di pubblicare in modo ordinato, compatto e responsabile. **Non intasare il gruppo con messaggi in rapida successione.**
 
 Può capitare che la discussione degeneri facilmente e si venga subissati di messaggi inviati in rapida successione. In casi come questi perdere il filo del discorso è questione di pochi messaggi: si possono intrecciare dialoghi e discussioni differenti, rendendo illeggibile e di difficile comprensione il flusso del gruppo. Per questo motivo è consigliabile inviare un unico messaggio, anche lungo, e attendere che il destinatario (o i destinatari) risponda prima di inviare un secondo messaggio.
 
+Assumi sempre che un commento possa rimanere archiviato su sistemi di terze parti. Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
+
 #### 4- Rispetta la privacy
 Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
+
 Se un utente sta utilizzando un alias, un soprannome o uno pseudonimo, rispetta il suo desiderio di anonimato. Anche se si è amici intimi di quella persona è più cortese usare il suo soprannome. Non usare il vero nome di quella persona in questo gruppo senza il suo permesso.
 
 #### 5- Policy riguardo username e nickname
