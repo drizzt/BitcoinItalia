@@ -28,6 +28,7 @@ Immagine profilo obbligatoria.)
 
 Chat specifiche per sub argomento:
 * [Bitcoin Lightning network IT](https://t.me/joinchat/A4TclT5zDFZpnGUTHFHnpg) 
+* [Liquid Italia (Bitcoin sidechain)](https://t.me/liquid_ita) Bitcoin Segregated Witness IT
 
 **Gli amministratori di questo gruppo agiranno con la massima determinazione in questi casi:**
 
