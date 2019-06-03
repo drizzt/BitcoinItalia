@@ -1,6 +1,10 @@
 # Gruppo Telegram “Bitcoin Italia” 
 ## Per entrare nel gruppo
 https://t.me/bitcoinita
+
+I migliori contenuti del gruppo in un canale con poco traffico: tipicamente non piu' di un messaggio al giorno.
+https://t.me/bitcoinita_Digest
+
 ### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico di nome)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
