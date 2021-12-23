@@ -78,6 +78,8 @@ Può capitare che la discussione degeneri facilmente e si venga subissati di mes
 
 Utilizza maiuscole e minuscole. IL TUTTO MAIUSCOLO EQUIVALE AD URLARE.
 
+Non usare messaggi vocali. I messaggi vocali "interrompono" il normale flusso della conversazione del gruppo, non possono essere usati da tutti gli utenti della chat -o per impedimenti fisici, o perchè il fruitore non può ascoltarli nei tempi della discussione e nonostante le varie funzioni di speed up sono più lenti da leggere rispetto ad un messaggio scritto. Non da ultimo, i contenuti non sono indicizzati dalla funzione di ricerca, risultando quindi impossibile recuperare le informazioni in esso contenute.
+
 #### 4- Rispetta la privacy
 Non richiedere agli altri utenti informazioni personali di qualsiasi tipo. Se dopo essere entrati in confidenza volete scambiare questo genere di informazioni fatelo attraverso messaggi personali e non sul gruppo.
 
