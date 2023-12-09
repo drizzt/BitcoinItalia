@@ -47,6 +47,7 @@ Chat specifiche per sub argomento:
 * No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi (anche cripto valute).
 * No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 * No Moral High Ground: un proposito a fin di bene o "moralmente superiore" non è una scusa per essere scortese, aggressivo o più in generale per violare queste regole. Tali comportamenti hanno un impatto negativo sulle cause che pretendono di difendere, e per questa ragione non sono ammessi su Bitcoin Italia.
+* No War: tutte quelle azioni volte ad impedire la lettura e la discussione pacifica ed il quieto vivere all'interno del gruppo.
 
 #### 1- Rimani sul topic.
 
