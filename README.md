@@ -8,11 +8,13 @@ https://t.me/bitcoinita_Digest
 
 ### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico di nome)
+  * AmbrogioBTC [AmbrogioBTC](https://t.me/AmbrogioBTC)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
   * Luca Venturini [@lucayepa](https://t.me/lucayepa)
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
   * Robertobipunto [@robertobipunto](https://t.me/robertobipunto)
+  * Sami Nimbo [@Sami_Nimbo](https://t.me/Sami_Nimbo)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
   * Valerio Vaccaro [@valeriovaccaro](https://t.me/valeriovaccaro)
 
