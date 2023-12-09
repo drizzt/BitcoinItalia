@@ -12,13 +12,16 @@ https://t.me/bitcoinita_Digest
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
   * Luca Venturini [@lucayepa](https://t.me/lucayepa)
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
+  * Robertobipunto [@robertobipunto](https://t.me/robertobipunto)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
+  * Valerio Vaccaro [@valeriovaccaro](https://t.me/valeriovaccaro)
 
-### Regole del gruppo
+### Regole per gli utenti
 Il gruppo è stato creato per:
   1. Discutere di Bitcoin e delle applicazioni e sviluppi della Blockchain Bitcoin.
   2. Condividere le informazioni in merito.
   3. Dare risposte e, nel limite del possibile, supporto ai neofiti che si avvicinano a questa tecnologia.
+  4. Divulgare contenuti inerenti Bitcoin.
 
 Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. Esistono chat per argomenti specifici nelle quali vi chiediamo di spostarvi nel caso una discussione sugli stessi si protragga e monopolizzi la chat:
 * [Bitcoin - Fiat & Alt Trading](https://t.me/cryptotradingitalia) (trading)
