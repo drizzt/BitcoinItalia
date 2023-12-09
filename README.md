@@ -61,7 +61,9 @@ Questo non è un gruppo di discussione di questioni varie eventuali. Con questo 
 
 Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utente cerca di non abusarne.
 
-La moderazione del gruppo e i comportamenti ammissibili o meno in chat non sono topic della stessa. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista. 
+Nel caso in cui degli utenti manifestamente molesti e sgraditi per comportamenti, chiari e noti, dovessero richiedere l'accesso al gruppo o fossero già all'interno di questo ed il cui intento fosse solo quello di porre scompiglio e zizzania, allora gli Admin procederanno al diniego all'accesso o al ban dell'utente nel caso fosse già presente nel gruppo
+
+La moderazione del gruppo e i comportamenti ammissibili o meno in chat non sono topic della stessa. Chi viola questa regola verrà mutato per un mese. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 #### 2- Sii civile e sereno.
 Non è un luogo per sfogare le tue frustrazioni o lo stress accumulato nella giornata, né per dare sfoggio delle tue abilità coprolalistiche, né per intraprendere qualche rissa infantile o qualche crociata personale, né per porre ultimatum o emettere scomuniche. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
