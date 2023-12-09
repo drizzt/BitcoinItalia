@@ -133,9 +133,9 @@ Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma a
 Quando vedi in chat un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori.  
 Non sottoponete loro invece casi attinenti a comportamenti avvenuti non su questa lista.
 
-In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e vi chiederanno, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
+In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post, come prima violazione, delle regole.
 
-In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle medesime persone) cancelleranno il messaggio/i incriminato e l’autore messo in sospensione (muto) per un mese.
 
 **'Three strikes and you're out'**
 
