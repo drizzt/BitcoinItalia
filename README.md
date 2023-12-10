@@ -8,17 +8,22 @@ https://t.me/bitcoinita_Digest
 
 ### Amministratori/moderatori del gruppo
 (in ordine strettamente alfabetico di nome)
+  * AmbrogioBTC [AmbrogioBTC](https://t.me/AmbrogioBTC)
   * Giacomo Zucco [@giacomozucco](https://t.me/giacomozucco)
   * Lawrence Nahum [@greenaddress](https://t.me/greenaddress)
   * Luca Venturini [@lucayepa](https://t.me/lucayepa)
   * Luigi Angotzi [@Luigi_Ang](https://t.me/Luigi_Ang)
+  * Robertobipunto [@robertobipunto](https://t.me/robertobipunto)
+  * Sami Nimbo [@Sami_Nimbo](https://t.me/Sami_Nimbo)
   * Timothy Redaelli [@THREADelli](https://t.me/THREADelli)
+  * Valerio Vaccaro [@valeriovaccaro](https://t.me/valeriovaccaro)
 
-### Regole del gruppo
+### Regole per gli utenti
 Il gruppo è stato creato per:
   1. Discutere di Bitcoin e delle applicazioni e sviluppi della Blockchain Bitcoin.
   2. Condividere le informazioni in merito.
   3. Dare risposte e, nel limite del possibile, supporto ai neofiti che si avvicinano a questa tecnologia.
+  4. Divulgare contenuti inerenti Bitcoin.
 
 Parliamo dunque della tecnologia di cui siamo entusiasti, degli argomenti teorici ad essa direttamente collegati (economici, sociali, legali, tecnologici), dei business sviluppati o da svilupparsi attorno alla medesima,  e degli aspetti pratici legati al suo uso, delle prospettive e della visione che la stessa sottintende. Esistono chat per argomenti specifici nelle quali vi chiediamo di spostarvi nel caso una discussione sugli stessi si protragga e monopolizzi la chat:
 * [Bitcoin - Fiat & Alt Trading](https://t.me/cryptotradingitalia) (trading)
@@ -44,6 +49,7 @@ Chat specifiche per sub argomento:
 * No Advertising: su questa chat è vietato pubblicizzare prodotti o servizi (anche cripto valute).
 * No Legal Threat: minacciare azioni legali è una tipica modalità per intimorire gli interlocutori. Se ritenete che qualcuno abbia davvero violato la legge intraprendete -se lo ritenete- le azioni legali ma non minacciatele ne datene informazione in pubblico sulla chat.
 * No Moral High Ground: un proposito a fin di bene o "moralmente superiore" non è una scusa per essere scortese, aggressivo o più in generale per violare queste regole. Tali comportamenti hanno un impatto negativo sulle cause che pretendono di difendere, e per questa ragione non sono ammessi su Bitcoin Italia.
+* No War: tutte quelle azioni volte ad impedire la lettura e la discussione pacifica ed il quieto vivere all'interno del gruppo.
 
 #### 1- Rimani sul topic.
 
@@ -57,7 +63,9 @@ Questo non è un gruppo di discussione di questioni varie eventuali. Con questo 
 
 Mentre si parla può accadere di andare fuori tema e gli amministratori cercheranno di essere (equamente) ragionevoli nel caso accada. Come utente cerca di non abusarne.
 
-La moderazione del gruppo e i comportamenti ammissibili o meno in chat non sono topic della stessa. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista. 
+Nel caso in cui degli utenti manifestamente molesti e sgraditi per comportamenti, chiari e noti, dovessero richiedere l'accesso al gruppo o fossero già all'interno di questo ed il cui intento fosse solo quello di porre scompiglio e zizzania, allora gli Admin procederanno al diniego all'accesso o al ban dell'utente nel caso fosse già presente nel gruppo
+
+La moderazione del gruppo e i comportamenti ammissibili o meno in chat non sono topic della stessa. Chi viola questa regola verrà mutato per un mese. Se hai problemi con le scelte di moderazione, contatta direttamente uno dei moderatori per spiegare il tuo punto di vista.
 
 #### 2- Sii civile e sereno.
 Non è un luogo per sfogare le tue frustrazioni o lo stress accumulato nella giornata, né per dare sfoggio delle tue abilità coprolalistiche, né per intraprendere qualche rissa infantile o qualche crociata personale, né per porre ultimatum o emettere scomuniche. Qui si parla con tutti, **fermi nei contenuti ma educati nei modi. Non si insulta, non si minaccia.**
@@ -127,9 +135,9 @@ Gli amministratori hanno un ruolo; sono i facilitatori di questa comunità. Ma a
 Quando vedi in chat un comportamento scorretto, non rispondere. Rispondere incoraggia il cattivo comportamento, consuma la tua energia e spreca il tempo di tutti. Basta segnalarlo agli amministratori.  
 Non sottoponete loro invece casi attinenti a comportamenti avvenuti non su questa lista.
 
-In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post in violazione delle regole e vi chiederanno, tramite commento pubblico e/o messaggio privato, di stare più attenti e di sforzarvi di più.
+In caso di commenti che non rispettino le semplici regole di cui sopra, gli amministratori del gruppo cancelleranno il post, come prima violazione, delle regole.
 
-In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle mendesime persone) il messaggio/i incriminato verrà cancellato e l’autore messo in sospensione per un giorno.
+In caso di violazioni **gravi** o **alla seconda ripetizione** della violazione delle regole, gli amministratori (che non possono perdere anni a ripetere sempre le stesse richieste alle medesime persone) cancelleranno il messaggio/i incriminato e l’autore messo in sospensione (muto) per un mese.
 
 **'Three strikes and you're out'**
 
